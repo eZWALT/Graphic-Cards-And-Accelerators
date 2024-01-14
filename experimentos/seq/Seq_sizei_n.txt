@@ -1,0 +1,84 @@
+n: 2^15, size_i: 4096
+Elapsed Sequential Time: 0.239200 ms
+n: 2^16, size_i: 4096
+Elapsed Sequential Time: 0.370200 ms
+n: 2^17, size_i: 4096
+Elapsed Sequential Time: 1.258200 ms
+n: 2^18, size_i: 4096
+Elapsed Sequential Time: 3.356200 ms
+n: 2^19, size_i: 4096
+Elapsed Sequential Time: 6.726600 ms
+n: 2^20, size_i: 4096
+Elapsed Sequential Time: 10.809000 ms
+n: 2^21, size_i: 4096
+Elapsed Sequential Time: 20.390000 ms
+n: 2^22, size_i: 4096
+Elapsed Sequential Time: 35.863200 ms
+n: 2^23, size_i: 4096
+Elapsed Sequential Time: 76.040199 ms
+n: 2^24, size_i: 4096
+Elapsed Sequential Time: 183.657999 ms
+n: 2^25, size_i: 4096
+Elapsed Sequential Time: 399.904804 ms
+n: 2^26, size_i: 4096
+Elapsed Sequential Time: 884.004993 ms
+n: 2^27, size_i: 4096
+Elapsed Sequential Time: 1950.042212 ms
+===================
+
+n: 2^15, size_i: 64
+Elapsed Sequential Time: 1.967000 ms
+n: 2^16, size_i: 64
+Elapsed Sequential Time: 12.231799 ms
+n: 2^17, size_i: 64
+Elapsed Sequential Time: 20.300200 ms
+n: 2^18, size_i: 64
+Elapsed Sequential Time: 25.133200 ms
+n: 2^19, size_i: 64
+Elapsed Sequential Time: 48.264200 ms
+n: 2^20, size_i: 64
+Elapsed Sequential Time: 101.012199 ms
+n: 2^21, size_i: 64
+Elapsed Sequential Time: 215.542404 ms
+n: 2^22, size_i: 64
+Elapsed Sequential Time: 448.207605 ms
+n: 2^23, size_i: 64
+Elapsed Sequential Time: 948.131799 ms
+n: 2^24, size_i: 64
+Elapsed Sequential Time: 1985.882007 ms
+n: 2^25, size_i: 64
+Elapsed Sequential Time: 4161.796875 ms
+n: 2^26, size_i: 64
+Elapsed Sequential Time: 8720.373047 ms
+n: 2^27, size_i: 64
+Elapsed Sequential Time: 18299.381641 ms
+===================
+
+n: 2^15, size_i: 8
+Elapsed Sequential Time: 0.565800 ms
+n: 2^16, size_i: 8
+Elapsed Sequential Time: 1.278600 ms
+n: 2^17, size_i: 8
+Elapsed Sequential Time: 7.766200 ms
+n: 2^18, size_i: 8
+Elapsed Sequential Time: 12.441600 ms
+n: 2^19, size_i: 8
+Elapsed Sequential Time: 23.368200 ms
+n: 2^20, size_i: 8
+Elapsed Sequential Time: 27.068800 ms
+n: 2^21, size_i: 8
+Elapsed Sequential Time: 44.628401 ms
+n: 2^22, size_i: 8
+Elapsed Sequential Time: 86.203801 ms
+n: 2^23, size_i: 8
+Elapsed Sequential Time: 182.165399 ms
+n: 2^24, size_i: 8
+Elapsed Sequential Time: 402.039203 ms
+n: 2^25, size_i: 8
+Elapsed Sequential Time: 842.171790 ms
+n: 2^26, size_i: 8
+Elapsed Sequential Time: 1771.928784 ms
+n: 2^27, size_i: 8
+Elapsed Sequential Time: 3780.739014 ms
+===================
+

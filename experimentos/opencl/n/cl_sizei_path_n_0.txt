@@ -1,0 +1,52 @@
+Modo: 0
+n: 32768, size_i: 2
+Tiempo Kernels: 0.546816 ms
+Ancho de Banda HtD: 20480.000000 MB/s, Ancho de Banda Kernels: 0.479401 GB/s, Ancho de Banda DtH: 21333.333333 MB/s
+Modo: 0
+n: 65536, size_i: 2
+Tiempo Kernels: 0.638720 ms
+Ancho de Banda HtD: 22260.869565 MB/s, Ancho de Banda Kernels: 0.820842 GB/s, Ancho de Banda DtH: 23272.727273 MB/s
+Modo: 0
+n: 131072, size_i: 2
+Tiempo Kernels: 0.976640 ms
+Ancho de Banda HtD: 23813.953488 MB/s, Ancho de Banda Kernels: 1.073657 GB/s, Ancho de Banda DtH: 24975.609756 MB/s
+Modo: 0
+n: 262144, size_i: 2
+Tiempo Kernels: 1.870848 ms
+Ancho de Banda HtD: 24674.698795 MB/s, Ancho de Banda Kernels: 1.120963 GB/s, Ancho de Banda DtH: 25600.000000 MB/s
+Modo: 0
+n: 524288, size_i: 2
+Tiempo Kernels: 4.589056 ms
+Ancho de Banda HtD: 14760.360360 MB/s, Ancho de Banda Kernels: 0.913980 GB/s, Ancho de Banda DtH: 25283.950617 MB/s
+Modo: 0
+n: 1048576, size_i: 2
+Tiempo Kernels: 9.714944 ms
+Ancho de Banda HtD: 7918.801353 MB/s, Ancho de Banda Kernels: 0.863475 GB/s, Ancho de Banda DtH: 4507.290234 MB/s
+Modo: 0
+n: 2097152, size_i: 2
+Tiempo Kernels: 20.488960 ms
+Ancho de Banda HtD: 4868.221661 MB/s, Ancho de Banda Kernels: 0.818842 GB/s, Ancho de Banda DtH: 5265.627511 MB/s
+Modo: 0
+n: 4194304, size_i: 2
+Tiempo Kernels: 44.335616 ms
+Ancho de Banda HtD: 5313.442517 MB/s, Ancho de Banda Kernels: 0.756828 GB/s, Ancho de Banda DtH: 5386.815716 MB/s
+Modo: 0
+n: 8388608, size_i: 2
+Tiempo Kernels: 96.932352 ms
+Ancho de Banda HtD: 5527.199123 MB/s, Ancho de Banda Kernels: 0.692327 GB/s, Ancho de Banda DtH: 5193.232695 MB/s
+Modo: 0
+n: 16777216, size_i: 2
+Tiempo Kernels: 182.345216 ms
+Ancho de Banda HtD: 5626.615153 MB/s, Ancho de Banda Kernels: 0.736064 GB/s, Ancho de Banda DtH: 5069.797126 MB/s
+Modo: 0
+n: 33554432, size_i: 2
+Tiempo Kernels: 397.732096 ms
+Ancho de Banda HtD: 5605.979278 MB/s, Ancho de Banda Kernels: 0.674915 GB/s, Ancho de Banda DtH: 4874.830311 MB/s
+Modo: 0
+n: 67108864, size_i: 2
+Tiempo Kernels: 834.599936 ms
+Ancho de Banda HtD: 5184.092392 MB/s, Ancho de Banda Kernels: 0.643267 GB/s, Ancho de Banda DtH: 3281.065385 MB/s
+Modo: 0
+n: 134217728, size_i: 2
+Tiempo Kernels: 1753.564160 ms
+Ancho de Banda HtD: 4840.881129 MB/s, Ancho de Banda Kernels: 0.612320 GB/s, Ancho de Banda DtH: 2363.893773 MB/s
