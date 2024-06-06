@@ -14,5 +14,5 @@ Los objetivos principales fueron:
 Ver experimentos/README.md
 ## Equipo
 
-- Alex Herrero Bravo (<alex.herrero.bravo@estudiantat.upc.edu>)
-- Walter J. Troiani Vargas (<walter.jose.troiani@estudiantat.upc.edu>)
+- Alex H
+- Walter J.TV
