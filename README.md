@@ -1,18 +1,25 @@
-# Proyecto TGA: Ordenacion por fusion paralela (OpenCL vs CUDA)
+# TGA Project: Parallel Merge Sort (OpenCL vs CUDA)
 
-## Introduccion
+## Introduction
 
-Esta práctica consta de diversas maneras de implementar el famoso algoritmo de ordenacion por fusion combinado con el de inserción.
+This project explores different implementations of the Merge Sort algorithm, combined with Insertion Sort (Also known was MultiSort), to enhance performance.
 
-Los objetivos principales fueron:
+The main objectives were:
 
-- Implementar MultiSort en CUDA y compararlo con la version sequencial
-- Implementar una versión paralela muy poco conocida del MergeSort llamada *PathMerge*
-- Probar la API de OpenCL y hacer una comparativa contra CUDA
+- **Implement and compare**: Develop a parallel version of the MultiSort algorithm in CUDA and compare it with the sequential version.
+- **Explore PathMerge**: Implement and evaluate a lesser-known parallel variant of the Merge Sort algorithm called *PathMerge*.
+- **Evaluate OpenCL vs. CUDA**: Test the OpenCL API and conduct a comparative analysis against CUDA to understand their respective strengths and limitations.
 
-## Ejecución
-Ver experimentos/README.md
-## Equipo
+## Execution
 
-- Alex H
-- Walter J.TV
+For detailed instructions on running the experiments, see `experiments/README.md`. 
+
+## Team
+
+- Alex Herrero Bravo  
+- Walter J. Troiani Vargas
+
+## Acknowledgements
+
+Many thanks to Agustín, an outstanding wise folk which taught us many life-changing lessons and that NVIDIA is investing a lot of cash...
+Finally, thanks to Daniel Jimenez for never giving up on us (PRINGAOOO).
